@@ -1,0 +1,53 @@
+body{
+  text-align: center;
+}
+
+.orange{
+  background-color: darkorange;
+  padding: 50px;
+}
+h1{
+  font-family: monospace;
+  font-size: 50px;
+}
+
+h2{
+  font-family: monospace;
+  color: rgb(255,255,255);
+}
+
+#image{
+  
+  max-width: 100%;
+  height: auto;
+}
+
+#img-div{
+  padding-top: 50px;
+  background-color: white;
+}
+
+#image-caption{
+  font-family: verdana,"Sans serif";
+  color: orange;
+}
+.green{
+  background-color: green;
+  padding: 50px;
+}
+p{
+ color: white;
+ font-family: monospace;
+ font-size: 24px;
+}
+
+#tribute-link{
+  color: #ff8c00; 
+  text-decoration: none;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+#tribute-link:hover{
+  color: white;
+}
